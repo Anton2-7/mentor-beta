@@ -1,0 +1,19 @@
+:root {
+    --font-color: #FFF;
+    --color-gray: #FFF;
+    --background-color: #A58069;
+    --background-color-gray: #F9F3E7;
+    --font-color-invers: rgba(165, 128, 105, 0.20);
+    --font-color-black: #000;
+    --line-color-background-invers: rgba(165, 128, 105, 0.20);
+    --line-color-background-black:#000; 
+    --font-color-invers-darker: #A58069;
+    --pseudo-elemt-color-invers-darker: #A58069;
+    --font-color-links: rgba(165, 128, 105, 1);
+    --font-color-links-hover: rgba(165, 128, 105, 0.5);
+    --color-border-of-rectangle: #A58069;
+    --color-text-gray: #969696;
+    --background-sl-white: #FFFFFF;
+    --opacity: 0;
+    --nature-title-section: rgba(165, 128, 105, 0.4);
+    }
